@@ -27,10 +27,6 @@ body {
     font-size: 2em;
 }
 
-.text {
-    vertical-align: bottom;
-}
-
 .date {
     color: rgb(201, 201, 201);
     font-size: 1em;
@@ -141,19 +137,18 @@ footer {
     width: 100%;
 }
 
-#loading {
-    margin-top: 8em;
+.loading_text {
+    margin-top: 4em;
     text-align: center;
-    display: inline-flex;
     width: 100%;
 }
 
-#loading > p {
+.loading_text>p {
     color: rgba(0, 0, 0, 0.299);
     font-size: 1.2em;
-    position: relative;
-    text-align: center;
-    left: 40%;
+    position: fixed;
+
+
 }
 
 #floatingBarsG{
