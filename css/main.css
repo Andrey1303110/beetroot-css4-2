@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Hans Kendrick';
-    src: url("/fonts/HansKendrick-Regular.otf");
+    src: url("/beetroot-css4-2/fonts/HansKendrick-Regular.otf");
     }
 
 body {
@@ -79,31 +79,31 @@ body {
 }
 
 .img1 {
-    background-image: url(/img/car1.jpg);
+    background-image: url(/beetroot-css4-2/img/car1.jpg);
     width: 740px;
     height: 540px;
 }
 
 .img2 {
-    background-image: url(/img/girl2.jpg);
+    background-image: url(/beetroot-css4-2/img/girl2.jpg);
     width: 360px;
     height: 250px;
 }
 
 .img3 {
-    background-image: url(/img/girls3.jpg);
+    background-image: url(/beetroot-css4-2/img/girls3.jpg);
     width: 360px;
     height: 250px;
 }
 
 .img4 {
-    background-image: url(/img/shoes4.jpg);
+    background-image: url(/beetroot-css4-2/img/shoes4.jpg);
     width: 360px;
     height: 250px;
 }
 
 .img5 {
-    background-image: url(/img/car5.jpg);
+    background-image: url(/beetroot-css4-2/img/car5.jpg);
     width: 360px;
     height: 250px;
 }
@@ -147,8 +147,6 @@ footer {
     color: rgba(0, 0, 0, 0.299);
     font-size: 1.2em;
     position: fixed;
-
-
 }
 
 #floatingBarsG{
